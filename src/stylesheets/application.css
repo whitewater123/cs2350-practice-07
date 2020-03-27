@@ -5,3 +5,11 @@
 }
 
 /* TODO */
+.box {
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+
+.green {background-color: rgb(25, 216, 127);}
+.blue {background-color: rgb(11, 56, 255);}
